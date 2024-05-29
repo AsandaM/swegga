@@ -24,10 +24,10 @@ body {
 	height: 70px 
 }
 
-#banner img{
+/* #banner img{
 	height: 85px;
 	width: 300px;
-}
+} */
 
 #navigation {
 	margin-top: 1em;
@@ -42,10 +42,10 @@ body {
 	margin-bottom: .7em;
 	float: left; 
 }
-#sidebar img{
+/* #sidebar img{
 	height: 350px;
 	width: 150px;
-}
+} */
 
 .copyright {
     font-size: 90%;
@@ -76,3 +76,8 @@ td, th {
 	
 .alignRight {
 	text-align: right; }
+
+table{
+	border-collapse: collapse ;
+	border: 1px solid black;
+}
