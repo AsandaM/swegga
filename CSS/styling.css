@@ -71,7 +71,7 @@ td, th {
 	border: 1px solid black;
 	padding: .2em .7em;
 	font-size: 95%; 
-	border-collapse:collapse;
+	/* border-collapse:collapse; */
 }	
 	
 .alignRight {
@@ -80,4 +80,8 @@ td, th {
 table{
 	border-collapse: collapse ;
 	border: 1px solid black;
+}
+
+button {
+	border: 1px solid blue;
 }
