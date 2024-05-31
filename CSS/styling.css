@@ -82,6 +82,8 @@ table{
 	border: 1px solid black;
 }
 
-button {
-	border: 1px solid blue;
+button:hover {
+	border: 2px solid blue;
+	border-radius: 5%;
 }
+
